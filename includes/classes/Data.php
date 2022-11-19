@@ -95,6 +95,7 @@ class Data {
 
 			if ( $fields[$field_key] !== '' && $fields[$field_key] !== [] ) {
 				$final_array[$field_key] = $fields[$field_key];
+				continue;
 			}
 
 			$child_fields = self::find_child_fields($field_key, $fields);
