@@ -10,7 +10,7 @@
  * Author URI:        https://gavdev.com/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Update URI:        https://example.com/my-plugin/
+ * Update URI:        https://gavdev.com/wordpress-plugins/acf-improved/
  * Text Domain:       acf-improved
  * Domain Path:       /languages
  */
